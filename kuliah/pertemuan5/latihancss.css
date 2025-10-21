@@ -1,0 +1,11 @@
+h1 {
+  font-size: 50px;
+  color: #cbad65;
+  font-family: "Pacifico", cursive;
+  text-decoration: line-through;
+  text-align: center;
+}
+
+body {
+  background-color: lightblue;
+}
