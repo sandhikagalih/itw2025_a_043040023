@@ -7,5 +7,21 @@ h1 {
 }
 
 body {
-  background-color: lightblue;
+  height: 100vh;
+  background-image: url(img/tree.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+}
+
+a {
+  display: block;
+  width: 200px;
+  height: 80px;
+  background-image: url(img/button.png);
+  background-position: center bottom;
+}
+
+a:hover {
+  background-position: center top;
 }
